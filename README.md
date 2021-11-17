@@ -8,6 +8,7 @@ This module has a few dependencies:
 
 # Export Your AWS account crdentials as environment variables
  export access_key
+ 
  export secret_key
 
 ## Expected Use

@@ -1,5 +1,5 @@
  ## terraform-three-tier-aws
-Terraform Module for Azure SQL with Private Endpoint.
+Terraform Module for three tier architecture.
 
 # Prerequisites
 This module has a few dependencies:

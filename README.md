@@ -18,7 +18,8 @@ Terraform commands to execute
 
 Sample inputs
 terraform.tfvars 
-region                         = "eastus-1"
+
+ region                         = "eastus-1"
  name_prefix                    = "three-tier"
  image_id                       = ""
  instance_type                  = ""
